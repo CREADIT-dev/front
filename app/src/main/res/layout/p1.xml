@@ -1,0 +1,18 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/android_17"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@color/colorSplashBackground">
+    <TextView
+        android:id="@+id/creadit"
+        android:fontFamily="@font/noto"
+        android:layout_width="182dp"
+        android:layout_height="174dp"
+        android:layout_alignParentTop="true"
+        android:text="@string/creadit"
+        android:textAppearance="@style/creadit"
+        android:gravity="center"
+        />
+</RelativeLayout>
